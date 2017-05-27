@@ -88,6 +88,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
                 mHomeLayout, mCategorizeLayout, mPurchaseOrderLayout, mMoreLayout
         };
     }
+    //这是测试
 
     /**
      * 恢复fragment
